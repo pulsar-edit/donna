@@ -1,3 +1,5 @@
+# This repo is deprecated! Pulsar Edit will be moving to JSDoc to document the code
+
 # Donna [![Build Status](https://travis-ci.org/atom/donna.svg?branch=master)](https://travis-ci.org/atom/donna)
 
 Donna is a tool for generating [CoffeeScript](http://coffeescript.org/) metadata
